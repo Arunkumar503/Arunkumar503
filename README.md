@@ -29,10 +29,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar503&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar503&layout=compact&theme=tokyonight)  
-
----
-
-⭐️ From [Arunkumar503](https://github.com/Arunkumar503)  
+ 
