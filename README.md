@@ -1,5 +1,5 @@
 # Hi there, I'm Arun Kumar Battineni 👋  
-![Profile Photo]("C:\Users\Arun Arya\OneDrive\Pictures\Arun Arya.jpg") 
+
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
 🚀 Passionate about building user-friendly web applications and learning new technologies.  
 
