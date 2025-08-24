@@ -1,4 +1,8 @@
 # Hi there, I'm Arun Kumar Battineni 👋  
+<p align="center">
+  <img src="arun.jpg" alt="Arun Kumar Battineni" width="100%" height="300px" style="object-fit: cover;" />
+</p>
+
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
 🚀 Passionate about building user-friendly web applications and learning new technologies.  
