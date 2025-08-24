@@ -1,4 +1,5 @@
 # Hi there, I'm Arun Kumar Battineni 👋  
+![My Photo](arun.jpg)
 <p align="center">
   <img src="arun.jpg" alt="Arun Kumar Battineni" width="100%" height="300px" style="object-fit: cover;" />
 </p>
