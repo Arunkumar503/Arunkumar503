@@ -1,18 +1,4 @@
- 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="arun-banner.jpg" alt="Banner" width="100%" height="300px" style="object-fit: cover;" />
-</p>
-
-<!-- Profile Photo + Name -->
-<p align="center">
-  <img src="arun-profile.jpg" alt="Arun Kumar Battineni" width="150px" height="150px" style="object-fit: cover; border-radius: 10px; margin-top: -80px; border: 3px solid white;" />
-</p>
-# Hi,I'm Arun Kumar Battineni 👋  
-<p align="center">
-  <img src="arun.jpg" alt="Arun Kumar Battineni" width="100%" height="300px" style="object-fit: cover;" />
-</p>
- 
+# Hi , I'm Arun Kumar Battineni 👋  
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
 🚀 Passionate about building user-friendly web applications and learning new technologies.  
@@ -33,14 +19,5 @@
 
 ---
 
-### ⚡ Tech Stack  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-
----
-
+ 
  
