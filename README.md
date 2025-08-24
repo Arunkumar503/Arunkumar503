@@ -7,7 +7,7 @@
 
 ### 📌 About Me  
 - 🎯 Currently working on: **React Projects & Spring Boot Full-Stack Apps**  
-- 🌱 Learning: **Node.js | Express | REST APIs | Spring Boot**  
+- 🌱 Learning: **python | java | sql | Spring Boot** 
 - 📫 How to reach me: **[battineniarunkumar@gmail.com](mailto:battineniarunkumar@gmail.com)**  
 - 💡 Fun fact: I love solving coding challenges & building side projects.  
 
