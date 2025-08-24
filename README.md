@@ -1,9 +1,17 @@
+ 
+<!-- Profile Banner -->
+<p align="center">
+  <img src="arun-banner.jpg" alt="Banner" width="100%" height="300px" style="object-fit: cover;" />
+</p>
+
+<!-- Profile Photo + Name -->
+<p align="center">
+  <img src="arun-profile.jpg" alt="Arun Kumar Battineni" width="150px" height="150px" style="object-fit: cover; border-radius: 10px; margin-top: -80px; border: 3px solid white;" />
+</p>
+# Hi,I'm Arun Kumar Battineni 👋  
 <p align="center">
   <img src="arun.jpg" alt="Arun Kumar Battineni" width="100%" height="300px" style="object-fit: cover;" />
 </p>
-
-# Hi there, I'm Arun Kumar Battineni 👋  
-
  
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
