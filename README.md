@@ -2,7 +2,7 @@
  
  
 
-<img src="profile.jpg" 
+<img src=" arun.jpg" 
      alt="My Photo" width="150" height="150">
 
 
