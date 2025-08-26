@@ -1,5 +1,6 @@
 # Hi , I'm Arun Kumar Battineni 👋  
-![Project Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/logo.png)
+![Project Logo](![WhatsApp Image 2025-06-27 at 22 33 55_05536268](https://github.com/user-attachments/assets/b1d62534-3ce9-41b9-bc8c-da52695264e5)
+)
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
 🚀 Passionate about building user-friendly web applications and learning new technologies.  
