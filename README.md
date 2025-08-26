@@ -1,9 +1,10 @@
 # Hi , I'm Arun Kumar Battineni 👋  
  
+ 
 
-<img src="profile.jpg" 
-     alt="Repo Logo" width="250" height="250"></img>
-
+<img src="![profile](https://github.com/user-attachments/assets/1c856163-ea8b-4769-8f5a-6a180e04254f)
+" 
+     alt="My Photo" width="150" height="150">
 
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
