@@ -2,7 +2,7 @@
  
 
 <img src="profile.jpg" 
-     alt="Repo Logo" width="250" height="250">
+     alt="Repo Logo" width="250" height="250"></img>
 
 
 
