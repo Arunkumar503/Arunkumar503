@@ -1,9 +1,8 @@
 # Hi , I'm Arun Kumar Battineni 👋  
  
  
-
 <img src=" port-arun.jpg" 
-     alt="My Photo" width="150%" height="150"style="border-radius:100%;>
+     alt="My Photo" width="150%" height="150" style="border-radius:100%>
     
 
 
