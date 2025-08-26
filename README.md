@@ -1,5 +1,8 @@
 # Hi , I'm Arun Kumar Battineni 👋  
-  ![WhatsApp Image 2025-06-27 at 22 33 55_05536268](https://github.com/user-attachments/assets/b1d62534-3ce9-41b9-bc8c-da52695264e5)
+<img src=" ![WhatsApp Image 2025-06-27 at 22 33 55_05536268](https://github.com/user-attachments/assets/32bff290-9406-4159-a766-271a236162d2)
+" 
+     alt="Repo Logo" width="250" height="250">
+
 
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
