@@ -2,8 +2,7 @@
  
  
 
-<img src="![profile](https://github.com/user-attachments/assets/1c856163-ea8b-4769-8f5a-6a180e04254f)
-" 
+<img src="![profile](https://github.com/user-attachments/assets/1c856163-ea8b-4769-8f5a-6a180e04254f)" 
      alt="My Photo" width="150" height="150">
 
 
