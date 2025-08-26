@@ -2,8 +2,9 @@
  
  
 
-<img src="profile.jpg" 
-     alt="My Photo" width="150" height="150">
+<img src=" port-arun.jpg" 
+     alt="My Photo" width="150%" height="150"style="border-radius:100%;>
+    
 
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
