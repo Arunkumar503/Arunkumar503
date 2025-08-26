@@ -1,4 +1,5 @@
 # Hi , I'm Arun Kumar Battineni 👋  
+![Project Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/logo.png)
 
 💻 **Frontend Developer** | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React  
 🚀 Passionate about building user-friendly web applications and learning new technologies.  
