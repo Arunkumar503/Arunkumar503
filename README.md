@@ -1,8 +1,6 @@
 # Hi , I'm Arun Kumar Battineni 👋  
  
  
- <img src= "arun.jpg" 
-     alt="My Photo" width="150" height="150">
     
  
 
